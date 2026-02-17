@@ -54,7 +54,7 @@ ur5e-research/
 ## 🚀 Setup Instructions
 
 ### Prerequisites:
-- Webots R2023b atau lebih baru
+- Webots R2025a
 - Python 3.8+
 - UR5e model di Webots
 - ROBOTIQ 2F-85 gripper
